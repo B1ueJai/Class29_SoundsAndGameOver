@@ -1,1 +1,2 @@
-# Class29_SoundsAndGameOver
+# PiratesInvasionStage-5
+added sprite animation
